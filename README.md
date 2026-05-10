@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there! I'm Zayem 👋
+I am a Software Engineering student with a passion for problem solving. Currently, I spend my time thinkering with electronics.
 
-<!--
-**HalzionByte/HalzionByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ My Tech Stack
+Languages: Java, Python, HTML/CSS , C
 
-Here are some ideas to get you started:
+Databases: MySQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hardware: ESP32, Arduino Uno
+
+Creative: Backend development , Fll Stack Developer
+
+🚀 Current Focus
+Hardware Prototyping: I'm currently refining a project that uses an ESP32 to drive 8-bit audio and physical visualizers.
+
+Statistics & Data: Applying statistical models to real-world datasets and automating content workflows.
+
+📫 Let's Connect!
+
+LinkedIn: www.linkedin.com/in/zayem-ur-rahman
+
+"The best way to predict the future is to code it." ⚔️
