@@ -1,19 +1,33 @@
-### Hi there! I'm Zayem 👋
-I am a Software Engineering student with a passion for problem solving. Currently, I spend my time thinkering with electronics.
+### Hey, I'm Zayem 👋
 
-🛠️ My Tech Stack
-Languages: Java, Python, HTML/CSS 
+I'm a Software Engineering student who likes building things, solving problems, and figuring out how stuff actually works.
 
-Databases: MySQL, SQLite, MongoDB
+Most of my time goes into **backend development, full-stack projects, and experimenting with different technologies**. I also mess around with electronics and hardware whenever I get the chance.
 
-Hardware: ESP32, Arduino Uno, rasberri pi
+### 🛠️ What I Work With
 
-Creative: Backend development , Full Stack Developer
+**Languages:** Java, Python, HTML/CSS
 
-Statistics & Data: Applying statistical models to real-world datasets and automating content workflows.
+**Backend & Development:** FastAPI, Spring Boot, React, REST APIs
 
-📫 Let's Connect!
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 
-LinkedIn: www.linkedin.com/in/zayem-ur-rahman
+**Hardware:** ESP32, Arduino Uno, Raspberry Pi
 
-"The best way to predict the future is to code it." ⚔️
+**Other:** Git, Docker, Linux
+
+I'm particularly interested in **backend engineering, system design, and building projects that are more than just basic CRUD apps**. I also enjoy working with data, automation, and experimenting with AI when there's an actual use for it.
+
+### 🚀 Currently
+
+* Building backend and full-stack projects
+* Learning more about system design and scalable APIs
+* Experimenting with AI and automation
+* Working on hackathons and personal projects
+* Trying to turn random ideas into things that actually work
+
+### 📫 Connect
+
+**LinkedIn:** [www.linkedin.com/in/zayem-ur-rahman](http://www.linkedin.com/in/zayem-ur-rahman)
+
+> *"The best way to predict the future is to code it."* ⚔️
