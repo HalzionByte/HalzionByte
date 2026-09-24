@@ -12,9 +12,9 @@ Most of my time goes into **backend development, full-stack projects, and experi
 
 **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 
-**Hardware:** ESP32, Arduino Uno, Raspberry Pi
+**Hardware:** ESP32, Arduino Uno
 
-**Other:** Git, Docker, Linux
+**Other:** Git, Docker
 
 I'm particularly interested in **backend engineering, system design, and building projects that are more than just basic CRUD apps**. I also enjoy working with data, automation, and experimenting with AI when there's an actual use for it.
 
